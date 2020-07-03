@@ -18126,9 +18126,9 @@ a .h_head:hover {
   font-size: 16px;
   padding: 11px 51px;
   border-radius: 45px;
-  background: #104c8b;
+  background: transparent;
   border: 2px solid #104c8b;
-  color: #fff;
+  color: #104c8b;
 }
 .event_btn i {
   margin-right: 8px;
@@ -18142,8 +18142,8 @@ a .h_head:hover {
 .event_btn_two {
   padding: 11px 33px;
   border-color: #f68620;
-  color: #FFF;
-  background: #f68620;
+  color: #f68620;
+  background: transparent;
 }
 .event_btn_two:hover {
   background: #fd475d;
