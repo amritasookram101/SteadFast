@@ -200,6 +200,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 
 .f_400 {
   font-weight: 400;
+  color: #000;
 }
 
 .f_500 {
@@ -231,7 +232,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .t_color3 {
-  color: #fff;
+  color: #051441;
 }
 
 .d_p_color {
@@ -5597,7 +5598,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .prototype_service_info {
-  padding: 150px 0px 175px;
+  padding: 62px 0px 175px;
   position: relative;
   z-index: 0;
 }
@@ -14570,7 +14571,7 @@ input[type=text] {
   margin-bottom: 33px;
 }
 .pos_service_info .hosting_service_item:hover {
-  border-color: #5e53fb;
+  border-color: #f68620;
   box-shadow: 0px 50px 100px 0px rgba(5, 1, 64, 0.1), 0px -5px 0px 0px rgba(95, 84, 253, 0.004);
 }
 
@@ -18066,9 +18067,9 @@ a .h_head:hover {
   min-height: 100vh;
   position: relative;
   overflow: hidden;
-  background-image: -moz-linear-gradient(-120deg, #000000 0%, #000000 100%);
-  background-image: -webkit-linear-gradient(-120deg, #000000 0%, #000000 100%);
-  background-image: -ms-linear-gradient(-120deg, #000000 0%, #000000 100%);
+  background-image: -moz-linear-gradient(-120deg, #2980b9 0%, #ecf0f1 100%);
+  background-image: -webkit-linear-gradient(-120deg, #2980b9 0%, #ecf0f1 100%);
+  background-image: -ms-linear-gradient(-120deg, #2980b9 0%, #ecf0f1 100%);
   z-index: 1;
   display: flex;
   align-items: center;
@@ -18125,8 +18126,8 @@ a .h_head:hover {
   font-size: 16px;
   padding: 11px 51px;
   border-radius: 45px;
-  background: #fd475d;
-  border: 2px solid #fd475d;
+  background: #104c8b;
+  border: 2px solid #104c8b;
   color: #fff;
 }
 .event_btn i {
@@ -18140,9 +18141,9 @@ a .h_head:hover {
 
 .event_btn_two {
   padding: 11px 33px;
-  border-color: #fba820;
-  color: #fba820;
-  background: transparent;
+  border-color: #f68620;
+  color: #FFF;
+  background: #f68620;
 }
 .event_btn_two:hover {
   background: #fd475d;
