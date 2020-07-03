@@ -703,6 +703,7 @@
     }
     .perfect_solution_area .perfect_solution_right .bg_img{
         position: relative;
+        height: 100%;
     }
     .perfect_solution_area .perfect_solution_left .per_solution_content.per_solution_content_two,.perfect_solution_area .perfect_solution_left .per_solution_content,.perfect_solution_area .perfect_solution_left .per_solution_content.per_solution_content_three{
         max-width: 960px;
@@ -4079,7 +4080,7 @@
         margin-left: 0px;
     }
     .app_service_item{
-        padding: 50px 20px;
+        padding: 1px 2px 3px 16px;
     }
     .app_contact_info .info_item{
         padding-left: 38px;
@@ -4453,7 +4454,7 @@
         margin-bottom: 15px;
     }
     .payment_footer_area{
-        padding-bottom: 75px;
+        padding-bottom: 0px;
     }
     .seo_fact_info{
         max-width: 320px;
