@@ -1652,6 +1652,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   height: 100%;
   width: 100%;
   display: block;
+  background-color: #f68620;
 }
 .menu_toggle .hamburger span {
   width: 0%;
