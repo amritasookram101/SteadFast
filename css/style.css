@@ -1491,7 +1491,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   border-radius: 0px;
 }
 .menu_five .menu > .nav-item .nav-link {
-  color: #fff;
+  color: #104c8b;
 }
 .menu_five .menu > .nav-item.submenu .dropdown-menu .nav-item:hover > .nav-link, .menu_five .menu > .nav-item.submenu .dropdown-menu .nav-item:focus > .nav-link, .menu_five .menu > .nav-item.submenu .dropdown-menu .nav-item.active > .nav-link {
   color: #3d64f4;
@@ -16697,7 +16697,7 @@ a .h_head:hover {
 }
 
 .w_menu .nav-item:hover .nav-link, .w_menu .nav-item.active .nav-link {
-  color: #fff;
+  color: #104c8b;
 }
 
 .menu_two .w_menu > .nav-item.submenu .dropdown-menu .nav-item:hover > .nav-link, .menu_two .w_menu > .nav-item.submenu .dropdown-menu .nav-item:focus > .nav-link, .menu_two .w_menu > .nav-item.submenu .dropdown-menu .nav-item.active > .nav-link, .nav_right_btn .login_btn.active, .header_area.navbar_fixed .menu_two .nav_right_btn .login_btn.active, .header_area.navbar_fixed .menu_two .nav_right_btn .login_btn:hover, .slider_btn {
@@ -18067,9 +18067,7 @@ a .h_head:hover {
   min-height: 100vh;
   position: relative;
   overflow: hidden;
-  background-image: -moz-linear-gradient(-120deg, #2980b9 0%, #ecf0f1 100%);
-  background-image: -webkit-linear-gradient(-120deg, #2980b9 0%, #ecf0f1 100%);
-  background-image: -ms-linear-gradient(-120deg, #2980b9 0%, #ecf0f1 100%);
+ background-color: #fff;
   z-index: 1;
   display: flex;
   align-items: center;
