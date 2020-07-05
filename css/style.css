@@ -396,7 +396,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   transition: all 0.3s linear;
 }
 .btn_hover:hover {
-  color: #fff;
+  color: #000;
 }
 
 .btn_get {
@@ -17340,7 +17340,7 @@ a .h_head:hover {
 /*============ home_analytics_banner_area css ============*/
 /*============ h_analytices_features_area css ============*/
 .h_analytices_features_area {
-  padding: 50px 0px 150px;
+  padding: 50px 0px 0px;
 }
 .h_analytices_features_area .er_btn {
   margin-top: 20px;
@@ -18013,7 +18013,7 @@ a .h_head:hover {
 /*======== security_action_area css =========*/
 .security_action_area {
   background: #fafafd;
-  padding: 130px 0px;
+  padding: 39px 0px 0px;
   position: relative;
   overflow: hidden;
   z-index: 1;
@@ -18136,7 +18136,7 @@ a .h_head:hover {
   vertical-align: middle;
 }
 .event_btn:hover {
-  box-shadow: 0px 10px 50px 0px rgba(195, 33, 52, 0.3);
+  box-shadow: 0px 10px 50px 0px rgba(13, 107, 161, 0.582);
 }
 
 .event_btn_two {
@@ -18146,9 +18146,7 @@ a .h_head:hover {
   background: transparent;
 }
 .event_btn_two:hover {
-  background: #fd475d;
-  color: #fff;
-  border-color: #fd475d;
+  box-shadow: 0px 10px 50px 0px rgba(165, 68, 12, 0.582);
 }
 
 .event_counter_area {
@@ -19999,7 +19997,7 @@ a .h_head:hover {
 }
 
 .payment_footer_area {
-  background: #07112d;
+  background: #104c8b;
   border: 0px;
   padding: 220px 0px 100px;
 }
